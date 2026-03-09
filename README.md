@@ -118,13 +118,7 @@ Steps to deploy:
 * Pandas
 * NLP (TF-IDF)
 
----
 
-# 📷 Demo
-
-Paste a news article in the text box and click **Predict** to check if it is Fake or Real.
-
----
 
 # 👨‍💻 Author
 
@@ -132,6 +126,4 @@ Md Faijan Khan
 
 ---
 
-# ⭐ Support
 
-If you like this project, consider giving it a ⭐ on GitHub!
